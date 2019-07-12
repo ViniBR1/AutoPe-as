@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "168323590315",
+    "firebase_url": "https://autopecasni.firebaseio.com",
+    "project_id": "autopecasni",
+    "storage_bucket": "autopecasni.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168323590315:android:90a39c41a95304d9",
+        "android_client_info": {
+          "package_name": "autopecas.hugobianquini.com.autopecas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168323590315-47icv5tbqripg3panrts2jo6lb76ufu7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "autopecas.hugobianquini.com.autopecas",
+            "certificate_hash": "40b95d71d8ab6b863c8f7b1e463dbd7cc5105027"
+          }
+        },
+        {
+          "client_id": "168323590315-j0f7g9oqtqj24qpa8idn42k61cluiigi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbC5JilwfkyptU7xvgPL25aqHq9qDENpU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168323590315-j0f7g9oqtqj24qpa8idn42k61cluiigi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
